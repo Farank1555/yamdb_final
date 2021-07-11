@@ -1,4 +1,4 @@
-version: '3.8'
+version: '3'
 
 services:
   db:
@@ -8,7 +8,8 @@ services:
     env_file:
       - ./.env
   web:
-    build: .
+    image: farank1555/sprint_19_yamdb_final:latest
+    #build: .
     restart: always
     volumes:
       - static_value:/code/static/
