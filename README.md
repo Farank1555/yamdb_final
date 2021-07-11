@@ -1,6 +1,6 @@
 # Yamdb_final
 
-[![yamdb_final workflow](https://github.com/Farank1555/yamdb_final/tree/master/.github/workflows]
+[![yamdb_final workflow](https://github.com/Farank1555/yamdb_final/workflows/yamdb_final%20workflow/badge.svg)](https://github.com/Farank1555/yamdb_final/actions?query=workflow%3A%22yamdb_final+workflow%22)
 
 [![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-464646??style=flat-square&logo=GitHub%20actions)](https://github.com/features/actions)
 [![GitHub](https://img.shields.io/badge/-GitHub-464646??style=flat-square&logo=GitHub)](https://github.com/)
