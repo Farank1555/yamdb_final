@@ -8,7 +8,7 @@ services:
     env_file:
       - ./.env
   web:
-    image: farank1555/sprint_19_yamdb_final:latest
+    image: farank1555/yamdb_final:latest
     #build: .
     restart: always
     volumes:
