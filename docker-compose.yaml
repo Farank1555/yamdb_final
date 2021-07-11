@@ -8,6 +8,7 @@ services:
     env_file:
       - ./.env
   web:
+    build: .
     image: farank1555/yamdb_final:latest
     #build: .
     restart: always
